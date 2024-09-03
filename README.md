@@ -1,4 +1,7 @@
 # SIGNATURE-VERIFICATION-MODEL
+Please try running the code in colab.
+This repo consists an archived file.
+Do upload it in your Drive->My Drive folder.
 This project focuses on developing an advanced signature recognition system using DenseNet Convolutional Networks. The model is designed to accurately distinguish between genuine and forged signatures by leveraging key features such as high-density variation and cross-over loops.
 Key Features:
 
